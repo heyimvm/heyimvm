@@ -2,7 +2,7 @@
 - 👀 I’m interested in sleeping all day
 - 🌱 I’m currently learning to live like a human
 - 📫 How to reach me - dont.
-- ⚡ Fun fact: - calico cats are rare and cute.
+- ⚡ Fun fact: - starfish ⭐
 
 <!---
 heyimvm/heyimvm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
