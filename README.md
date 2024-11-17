@@ -1,8 +1,13 @@
 const profile = {
+
   username: "@heyimvm",
+  
   interests: "Sleeping all day",
+  
   currentlyLearning: "To live like a human",
+  
   contact: "Don't reach me",
+  
   funFact: "Starfish ⭐",
 };
 
