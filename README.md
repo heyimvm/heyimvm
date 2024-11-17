@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @heyimvm
-- 👀 I’m interested in sleeping all day
-- 🌱 I’m currently learning to live like a human
-- 📫 How to reach me - dont.
-- ⚡ Fun fact: - starfish ⭐
+const profile = {
+  username: "@heyimvm",
+  interests: "Sleeping all day",
+  currentlyLearning: "To live like a human",
+  contact: "Don't reach me",
+  funFact: "Starfish ⭐",
+};
 
-<!---
-heyimvm/heyimvm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+// Displaying the profile details
+console.log("👋 Hi, I’m " + profile.username);
+console.log("👀 I’m interested in " + profile.interests);
+console.log("🌱 I’m currently learning " + profile.currentlyLearning);
+console.log("📫 How to reach me - " + profile.contact);
+console.log("⚡ Fun fact: " + profile.funFact);
