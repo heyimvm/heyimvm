@@ -1,11 +1,4 @@
- const profile = {
-      username: "@heyimvm",
-      interests: "Sleeping all day",
-      currentlyLearning: "To live like a human",
-      contact: "Don't reach me",
-      funFacts: [
-        "Starfish ⭐",
-        
+
         "Dolphins sleep with one eye open 🐬",
         
         "Bananas are berries, but strawberries aren't 🍌",
