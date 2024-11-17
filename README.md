@@ -1,23 +1,27 @@
-const profile = {
+ const profile = {
+      username: "@heyimvm",
+      interests: "Sleeping all day",
+      currentlyLearning: "To live like a human",
+      contact: "Don't reach me",
+      funFacts: [
+        "Starfish ⭐",
+        
+        "Dolphins sleep with one eye open 🐬",
+        
+        "Bananas are berries, but strawberries aren't 🍌",
+        
+        "The Eiffel Tower can grow taller in summer 🌞"
+      ],
+    };
 
-  username: "@heyimvm",
-  
-  interests: "Sleeping all day",
-  
-  currentlyLearning: "To live like a human",
-  
-  contact: "Don't reach me",
-  
-  funFact: "Starfish ⭐",
-};
+
+    document.getElementById("interest").textContent = profile.interests;
+    document.getElementById("learning").textContent = profile.currentlyLearning;
+    document.getElementById("contact").textContent = profile.contact;
+    document.getElementById("funFact").textContent = profile.funFacts[0];
 
 
-console.log("👋 Hi, I’m " + profile.username);
-
-console.log("👀 I’m interested in " + profile.interests);
-
-console.log("🌱 I’m currently learning " + profile.currentlyLearning);
-
-console.log("📫 How to reach me - " + profile.contact);
-
-console.log("⚡ Fun fact: " + profile.funFact);
+    document.getElementById("changeFact").addEventListener("click", () => {
+      const randomIndex = Math.floor(Math.random() * profile.funFacts.length);
+      document.getElementById("funFact").textContent = profile.funFacts[randomIndex];
+    });
