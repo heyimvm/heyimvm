@@ -42,7 +42,7 @@
 ---
 
 ### 🎀 Connect With Me  
-💌 [Email](mailto:Vedavarshiniv2@gmail.com) | 💼 [LinkedIn](https://linkedin.com/in/your-link](https://www.linkedin.com/in/vedavarshini-v-913b4a270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | 🌸 [Portfolio](https://your-portfolio.com)
+💌 [Email](mailto:Vedavarshiniv2@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/vedavarshini-v-913b4a270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | 🌸 [Portfolio](https://your-portfolio.com)
 
 <p align="center">
   <i>“Don't ask me, i will cry.”</i>
