@@ -59,7 +59,6 @@ Hello There! I'm **Ved**, an Electrical & Electronics Engineering student with a
 ## 📊 Statistics
 
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=30363d" height="150" />
 &nbsp;&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&border=30363d" height="150" />
