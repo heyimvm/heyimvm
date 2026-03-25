@@ -1,79 +1,81 @@
 <div align="center">
 
-# Welcome to Ved's Github
-# `⚡`
+# Welcome to Ved's GitHub
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=Ved&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Electrical%20%26%20Electronics%20Engineering%20Student&descAlignY=55&descAlign=50)
+### </>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:1c1c1c&height=180&section=header&text=Welcome%20to%20Ved's%20GitHub&fontSize=28&fontColor=ffffff"/>
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge\&logo=linkedin\&logoColor=white)]([https://linkedin.com](https://www.linkedin.com/in/vedavarshini-v-913b4a270/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com)
 
 </div>
+
+---
+
+# About Me
+
+Hello there! I'm **Ved** — Electrical Engineering Student.
+I enjoy building engineering projects, learning new technologies, and designing clean interfaces.
+
+* ⚡ Third Year Electrical Engineering
+* 💻 Learning React & Web Development
+* 🎯 Building Portfolio Projects
+* 🌱 Improving Every Day
+
+---
+
+# Technologies
+
+<div align="center">
+
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge\&logo=c\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge\&logo=python\&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-000000?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge\&logo=javascript)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge\&logo=react)
+
+</div>
+
+---
+
+# Statistics
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+# Contribution Graph
+
+<div align="center">
+
+[![Ved's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME\&theme=github-dark\&hide_border=true)](https://github.com/YOUR_USERNAME)
+
+</div>
+
+---
+
+# Current Focus
+
+* Building Engineering Projects
+* Portfolio Website
+* React Development
+* GitHub Growth
 
 ---
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+### Thanks for visiting ⚡
 
 </div>
 
----
-
-## ⚡ About me
-
-Hello There! I'm **Ved**, an Electrical & Electronics Engineering student with a strong interest in **Power Systems** and **Control Systems**. I enjoy simulating power networks, designing controllers, and exploring how modern grids work. I'm working on projects involving power flow analysis, MATLAB/Python simulations, and embedded control systems.
-
-- 🎓 Undergraduate Student — Electrical & Electronics Engineering (EEE)
-- ⚡ Interested in Electrical Power Systems & Grid Analysis
-- 🔁 Exploring Control Systems — PID, State-Space, and Modern Control
-- 🔬 Working with MATLAB/Simulink, Python, and Arduino
-- 📡 Learning about Smart Grids, Renewable Integration & Protection Systems
-
----
-
-## 🔧 Technologies & Tools
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
-
-</div>
-
-**Power Systems Tools:** PyPSA · pandapower · MATPOWER · PSCAD · OpenDSS
-
-**Control Systems Tools:** MATLAB Simulink · Control System Toolbox · SciPy Control
-
----
-
-## 📊 Statistics
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=30363d" height="150" />
-&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&border=30363d" height="150" />
-
-</div>
-
----
-
-## 📈 Ved's Contribution Graph
-
-<div align="center">
-
-[![Ved's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=github-compact&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=100&section=footer)
-
-</div>
