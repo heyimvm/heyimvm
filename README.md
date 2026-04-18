@@ -4,7 +4,6 @@
 
 ### </>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:1c1c1c&height=180&section=header&text=Welcome%20to%20Ved's%20GitHub&fontSize=28&fontColor=ffffff"/>
 <img width="735" height="273" alt="jojo panel" src="https://github.com/user-attachments/assets/25f01681-ef3b-4a31-b2b3-cc1334b1b05b" />
 
 <br>
