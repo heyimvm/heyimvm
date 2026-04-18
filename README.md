@@ -32,8 +32,6 @@ I enjoy building engineering projects, learning new technologies, and designing 
 
 <div align="center">
 
-![C](<img width="644" height="756" alt="Sex Pistols Full Art" src="https://github.com/user-attachments/assets/1c3cd536-df86-49a5-8dbf-ce2076a9de04" />)
-
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge\&logo=python\&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-000000?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge\&logo=javascript)
